@@ -1,2 +1,0 @@
-(this.webpackJsonpclient=this.webpackJsonpclient||[]).push([[9],{114:function(e,t,n){"use strict";n.r(t);var a=n(16),l=n(0),c=n.n(l),r=n(70),s=n(118);t.default=function(e){return c.a.createElement(c.a.Fragment,null,c.a.createElement(a.Helmet,null,c.a.createElement("title",null,"AharrFaris || Projects")),c.a.createElement(r.a,null,c.a.createElement(s.a,{color:"success",className:"text-center"},"Have not done anything that interesting yet to show!")))}}}]);
-//# sourceMappingURL=9.71b2074c.chunk.js.map

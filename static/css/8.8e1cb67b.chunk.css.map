@@ -1,0 +1,1 @@
+{"version":3,"sources":["Projects.scss"],"names":[],"mappings":"AAAA,UACE,iBAAkB,CAClB,gBAAiB,CAEjB,yBAJF,UAKI,iBAAkB,CAErB","file":"8.8e1cb67b.chunk.css","sourcesContent":["#Projects{\r\n  position: relative;\r\n  margin-top: -50px;\r\n\r\n  @media ( max-width: 991px ) {\r\n    margin-top: -180px;\r\n  }\r\n}"]}
